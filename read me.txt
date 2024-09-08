@@ -1,1 +1,4 @@
 Ejercicios hechos en el lenguaje de programación Java :D
+
+1. Calculadora App
+2. Listado Personas App
